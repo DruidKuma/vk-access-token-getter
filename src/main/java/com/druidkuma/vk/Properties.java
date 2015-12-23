@@ -3,6 +3,8 @@ package com.druidkuma.vk;
 /**
  * Created by Iurii Miedviediev
  *
+ * All needed properties (just for comfortable use)
+ *
  * @author DruidKuma
  * @version 1.0.0
  * @since 12/23/15
